@@ -1,5 +1,5 @@
 package main
 
 func main() {
-	print(reverseWords("hola mundo"))
+	print(ReverseWords("a b c "))
 }
