@@ -9,5 +9,6 @@ func main() {
 	// println(FindShort("hola que onda"))
 	// print(DigitalRoot(493193))
 	// print(IsValidWalk([]rune{'n', 's', 'n', 's', 'n', 's', 'n', 's', 'n', 's'}))
-	fmt.Printf("%v", Gap(2, 3, 50))
+	// fmt.Printf("%v", Gap(2, 3, 50))
+	fmt.Print(IPValidation("255.240.250.255"))
 }
